@@ -68,6 +68,15 @@
       "skills": [
         "./skills/discernment-nudge"
       ]
+    },
+    {
+      "name": "x-writer",
+      "description": "个人推特文风写作 skill：按文风画像写推文/推文串/长推，并从改稿中学习",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/x-writer"
+      ]
     }
   ]
 }
